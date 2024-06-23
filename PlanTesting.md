@@ -15,21 +15,21 @@
 
   * Сценарий №1: 
 1. нажать кнопку "Каталог курсов" ;
-![](D:\Testing\Last_lecture\screenshorts\1.png)
+![1.png](screenshorts/1.png)
 2. нажать в появившемся всплывающем окне "Программирование" (переход на страницу https://netology.ru/development) ;
-![](D:\Testing\Last_lecture\screenshorts\2.png)
+![2.png](screenshorts/2.png)
 3. прокрутить страницу вниз и выбрать "Инженер по тестированию".
-![](D:\Testing\Last_lecture\screenshorts\3.png)
+![3.png](screenshorts/3.png)
 4. нажать кнопку "Записаться" или прокрутить страницу вниз до формы записи( https://netology.ru/programs/qa#/order)
-![](D:\Testing\Last_lecture\screenshorts\5.png)
+![5.png](screenshorts/5.png)
 
   * Сценарий №2:
 1. пролистать страницу вниз и выбрать из меню Направления обучения профессию Программирование  ;
-   ![](D:\Testing\Last_lecture\screenshorts\4.png)
+   ![4.png](screenshorts/4.png)
 2. прокрутить страницу вниз и выбрать "Инженер по тестированию". ;
-   ![](D:\Testing\Last_lecture\screenshorts\3.png)
+   ![3.png](screenshorts/3.png)
 3. нажать кнопку "Записаться" или прокрутить страницу вниз до формы записи(https://netology.ru/programs/qa#/order)
-   ![](D:\Testing\Last_lecture\screenshorts\5.png)
+   ![5.png](screenshorts/5.png)
 
 
 git
